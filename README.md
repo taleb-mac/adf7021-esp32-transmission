@@ -24,4 +24,4 @@ The ADF7021 transceiver is configured by modifying 15 specific registers via the
 
 - Center Frequency: 437 MHz
 - Frequency Deviation: 2.4 kHz
-- Modulation: Gaussian 2FK
+- Modulation: Gaussian 2FSK
